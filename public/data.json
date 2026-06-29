@@ -1,0 +1,107 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "James Anderson",
+      "gpa": 3.75
+    },
+    {
+      "id": "2",
+      "name": "Sophia Martinez",
+      "gpa": 3.92
+    },
+    {
+      "id": "3",
+      "name": "Ethan Johnson",
+      "gpa": 3.48
+    },
+    {
+      "id": "4",
+      "name": "Olivia Brown",
+      "gpa": 3.81
+    },
+    {
+      "id": "5",
+      "name": "Liam Wilson",
+      "gpa": "3.67"
+    },
+    {
+      "id": "6",
+      "name": "Emma Davis",
+      "gpa": 3.95
+    },
+    {
+      "id": "7",
+      "name": "Noah Taylor",
+      "gpa": 3.54
+    },
+    {
+      "id": "8",
+      "name": "Ava Thomas",
+      "gpa": 3.88
+    },
+    {
+      "id": "9",
+      "name": "William Moore",
+      "gpa": 3.29
+    },
+    {
+      "id": "10",
+      "name": "Isabella Jackson",
+      "gpa": 3.73
+    }
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "name": "Michael Smith",
+      "salary": 55000
+    },
+    {
+      "id": "2",
+      "name": "Jennifer Johnson",
+      "salary": 62000
+    },
+    {
+      "id": "3",
+      "name": "David Williams",
+      "salary": 58000
+    },
+    {
+      "id": "4",
+      "name": "Sarah Brown",
+      "salary": 67000
+    },
+    {
+      "id": "5",
+      "name": "Christopher Jones",
+      "salary": 61000
+    },
+    {
+      "id": "6",
+      "name": "Emily Garcia",
+      "salary": 59000
+    },
+    {
+      "id": "7",
+      "name": "Matthew Miller",
+      "salary": 72000
+    },
+    {
+      "id": "8",
+      "name": "Jessica Davis",
+      "salary": 64000
+    },
+    {
+      "id": "9",
+      "name": "Andrew Rodriguez",
+      "salary": 57000
+    },
+    {
+      "id": "10",
+      "name": "Amanda Wilson",
+      "salary": 69000
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
